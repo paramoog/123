@@ -3,7 +3,7 @@ import styles from './shareIcon.module.css'
 const FacebookShareButton = () => {
 	const shareFacebook = () => {
 		window.open(
-			'http://www.facebook.com/sharer.php?u=https://felizmbti.netlify.app/'
+			'http://www.facebook.com/sharer.php?u=https://minidt.netlify.app/'
 		)
 	}
 	return (

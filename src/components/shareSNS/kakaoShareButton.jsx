@@ -20,18 +20,18 @@ const KakaoShareButton = () => {
 				content: {
 					title: '여행MBIT',
 					description: '나에게 어울리는 여행지는?',
-					imageUrl: 'https://felizmbti.netlify.app/img/FelizLogo.png',
+					imageUrl: 'https://minidt.netlify.app/img/FelizLogo.png',
 					link: {
-						mobileWebUrl: 'https://felizmbti.netlify.app/',
-						webUrl: 'https://felizmbti.netlify.app/',
+						mobileWebUrl: 'https://minidt.netlify.app/',
+						webUrl: 'https://minidt.netlify.app/',
 					},
 				},
 				buttons: [
 					{
 						title: '테스트 하기',
 						link: {
-							mobileWebUrl: 'https://felizmbti.netlify.app/',
-							webUrl: 'https://felizmbti.netlify.app/',
+							mobileWebUrl: 'https://minidt.netlify.app/',
+							webUrl: 'https://minidt.netlify.app/',
 						},
 					},
 				],

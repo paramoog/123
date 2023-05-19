@@ -5,7 +5,7 @@ const TwitterShareButton = () => {
 		<div>
 			<a
 				className="twitter-share-button"
-				href="https://twitter.com/intent/tweet?text=https://felizmbti.netlify.app/"
+				href="https://www.instagram.com/mini.deutschmotors/"
 				data-size="large"
 			>
 				<img

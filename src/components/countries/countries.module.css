@@ -96,7 +96,7 @@ strong {
 .button__box button {
 	margin: 0.4rem 0 0.4rem 0;
 	padding: 0.6rem;
-	background-color: #ed6174;
+	background-color: #000000;
 	color: #e8e7e6;
 	border: none;
 	border-radius: 6px;
@@ -105,7 +105,7 @@ strong {
 .button__box a {
 	margin: 0.3rem 0 0.3rem 0;
 	padding: 0.6rem;
-	background-color: #ed6174;
+	background-color: #000000;
 	color: #e8e7e6;
 	border: none;
 	border-radius: 6px;

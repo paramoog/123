@@ -24,13 +24,15 @@ const Profile = ({ match }) => {
         <>
             <div className={styles.wrapper} key={nation.id}>
                 <div className={styles.container}>
-                    <div>
-                        <center>
-                            <img
-                                    src="/img/FelizLogo.png" height={100}
+                    <div className={styles.header}>
+                        <>
+                            <Link to="/">
+                                <FontAwesomeIcon
+                                    icon={faEarlybirds}
                                     className={styles.birds}
                                 />
-                        </center>
+                            </Link>
+                        </>
                     </div>
                     <img
                         src={nation.img}

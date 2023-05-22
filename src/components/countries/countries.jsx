@@ -60,6 +60,22 @@ const Profile = ({ match }) => {
                     </ul>
                     <div className={styles.result__advice__box}>
                         <div className={styles.result__advice}>
+                            <a href={`${/result/}${nation.car[0].subhead}`}>
+                                <img
+                                    src={nation.car[0].img}
+                                    alt="mbti캐릭터"
+                                    Link="/"
+                                />
+                            </a>
+                            <div>
+                                <h4>이 여행지에 어울리는 차량은?</h4>
+                                <p className={styles.advice__strong}>
+                                    바로바로 {nation.car[0].subhead}!
+                                </p>
+                                <p>{nation.car[0].des}</p>
+                            </div>
+                        </div>
+                        <div className={styles.result__advice}>
                             <a href={`${/result/}${nation.duo[0].subhead}`}>
                                 <img
                                     src={nation.duo[0].img}
@@ -100,6 +116,13 @@ const Profile = ({ match }) => {
                         <TwitterBtn />
                     </div>
                     <div className={styles.button__box}>
+                        <a href="https://kr.mini.co.kr/subscribe/4229" className={styles.button}>
+                            상담신청
+                            <FontAwesomeIcon
+                                icon={faSignOutAlt}
+                                className={styles.icon}
+                            />
+                        </a>
                         <Link to="/" className={styles.button}>
                             다시하기
                             <FontAwesomeIcon

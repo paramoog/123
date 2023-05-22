@@ -3,7 +3,6 @@
 		"id": "INTJ",
 		"subhead": "아는 만큼 보인다! 여행모범생인 당신",
 		"subject": "전 세계가 원하던 도시 이스탄불, 터키",
-
 		"nickname": "과학자형",
 		"img": "https://cdn.pixabay.com/photo/2019/03/08/19/52/galata-4043037_960_720.jpg",
 		"description": [
@@ -38,6 +37,13 @@
 				"img": "https://i.pinimg.com/564x/93/26/c5/9326c5020322d5e9113501391fda04ee.jpg",
 				"subhead": "ESFP",
 				"des": " 호수의 도시 루가노, 스위스"
+			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/7d/8c/f6/7d8cf67ffca282329b8752ef847f861a.jpg",
+				"subhead": "컨트리맨",
+				"des": "모험과 실용성을 결합한 작지 않은 MINI"
 			}
 		]
 	},
@@ -80,6 +86,13 @@
 				"subhead": "ESFJ ",
 				"des": "빛의 도시 파리, 프랑스"
 			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/c0/30/41/c030415bee81264fac19fd27b98fa02c.jpg",
+				"subhead": "클럽맨",
+				"des": "넉넉한 공간을 자랑하는 웨건 형태의 개성있는 MINI"
+			}
 		]
 	},
 	"INFJ": {
@@ -121,6 +134,13 @@
 				"subhead": "ESTP",
 				"des": "지구의 천장 포카라, 네팔"
 			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/ad/81/1d/ad811d7fc3e8b59b46d604ccc015cb70.jpg",
+				"subhead": "일렉트릭",
+				"des": "더욱 아름다운 자연을 위한 친환경 MINI"
+			}
 		]
 	},
 	"INFP": {
@@ -161,6 +181,13 @@
 				"img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
 				"subhead": "ESFJ",
 				"des": "빛의 도시 파리, 프랑스"
+			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/9c/c6/a4/9cc6a4a5f746e2e0ba6953eefc80df93.jpg",
+				"subhead": "스페셜 에디션",
+				"des": "한정판으로 출시되는 유니크한 외관과 옵션의 MINI"
 			}
 		]
 	},
@@ -206,6 +233,13 @@
 				"subhead": "ENFP",
 				"des": "잠들지 않는 섬 이비자, 스페인"
 			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/b3/b3/d7/b3b3d7b29bd3abb829e5c96f1f58d5be.jpg",
+				"subhead": "5도어",
+				"des": "실용적이면서도 스타일리시한 MINI"
+			}
 		]
 	},
 	"ISFJ": {
@@ -246,6 +280,13 @@
 				"img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
 				"subhead": "ENTP",
 				"des": "열정의 도시 마드리드, 스페인"
+			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/b5/e2/a1/b5e2a162bc263674f5dd473709a9e3a3.jpg",
+				"subhead": "컨버터블",
+				"des": "바람을 맞으며 자유를 느낄수 있는 MINI"
 			}
 		]
 	},
@@ -288,6 +329,13 @@
 				"subhead": "ENFJ",
 				"des": "스머프의 고향 알베로벨로, 이탈리아"
 			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/7d/8c/f6/7d8cf67ffca282329b8752ef847f861a.jpg",
+				"subhead": "컨트리맨",
+				"des": "모험과 실용성을 결합한 작지 않은 MINI"
+			}
 		]
 	},
 	"ISFP": {
@@ -328,6 +376,13 @@
 				"img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
 				"subhead": "ENTJ",
 				"des": "푸른 왕국 쉐프샤우엔, 모로코"
+			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/9c/c6/a4/9cc6a4a5f746e2e0ba6953eefc80df93.jpg",
+				"subhead": "스페셜 에디션",
+				"des": "한정판으로 출시되는 유니크한 외관과 옵션의 MINI"
 			}
 		]
 	},
@@ -370,6 +425,13 @@
 				"subhead": "INFJ",
 				"des": "알프스의 나라 체르마트, 스위스"
 			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
+				"subhead": "컨트리맨",
+				"des": "모험과 실용성을 결합한 작지 않은 MINI"
+			}
 		]
 	},
 	"ESFP": {
@@ -411,9 +473,15 @@
 				"subhead": "INTJ",
 				"des": "전세계가 원하던 도시 이스탄불, 터키"
 			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/f0/b2/df/f0b2df1bf13118efa2e307f22fdd4dfc.jpg",
+				"subhead": "JCW",
+				"des": "가장 빠르고 강력한 스릴 넘치는 MINI"
+			}
 		]
 	},
-
 	"ENTJ": {
 		"id": "ENTJ",
 		"subhead": "여행지에서 국밥처럼 든든한 당신",
@@ -452,6 +520,13 @@
 				"img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
 				"subhead": "ISFP",
 				"des": "힐링 여행의 끝판왕 밀포드 사운드, 뉴질랜드"
+			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/3d/21/6c/3d216cbcf99b6f4d1640dd89d1609adc.jpg",
+				"subhead": "3도어",
+				"des": "아담하고 가장 클래식한 대표 MINI"
 			}
 		]
 	},
@@ -497,6 +572,13 @@
 				"subhead": "ISFJ",
 				"des": "환상의 섬 사르데냐, 이태리"
 			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/c0/30/41/c030415bee81264fac19fd27b98fa02c.jpg",
+				"subhead": "클럽맨",
+				"des": "넉넉한 공간을 자랑하는 웨건 형태의 개성있는 MINI"
+			}
 		]
 	},
 	"ENFJ": {
@@ -537,6 +619,13 @@
 				"img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
 				"subhead": "ISTP",
 				"des": "비슷한 듯 다른,다른듯 비슷한 도시 도쿄, 일본"
+			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/b3/b3/d7/b3b3d7b29bd3abb829e5c96f1f58d5be.jpg",
+				"subhead": "5도어",
+				"des": "실용적이면서도 스타일리시한 MINI"
 			}
 		]
 	},
@@ -579,6 +668,13 @@
 				"subhead": "ISTJ",
 				"des": "낭만의 도시 프라하, 체코"
 			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/3d/21/6c/3d216cbcf99b6f4d1640dd89d1609adc.jpg",
+				"subhead": "3도어",
+				"des": "아담하고 가장 클래식한 대표 MINI"
+			}
 		]
 	},
 	"ESTJ": {
@@ -620,6 +716,13 @@
 				"subhead": "INFP",
 				"des": "나만 알고 싶은 소도시 과나후아토, 멕시코"
 			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/ad/81/1d/ad811d7fc3e8b59b46d604ccc015cb70.jpg",
+				"subhead": "일렉트릭",
+				"des": "더욱 아름다운 자연을 위한 친환경 MINI"
+			}
 		]
 	},
 	"ESFJ": {
@@ -660,6 +763,13 @@
 				"img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
 				"subhead": "INTP",
 				"des": "세계에서 별 보기 가장 좋은 곳 아타카마 사막, 칠레"
+			}
+		],
+		"car": [
+			{
+				"img": "https://i.pinimg.com/564x/7d/8c/f6/7d8cf67ffca282329b8752ef847f861a.jpg",
+				"subhead": "컨트리맨",
+				"des": "모험과 실용성을 결합한 작지 않은 MINI"
 			}
 		]
 	}
